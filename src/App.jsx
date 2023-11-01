@@ -2,6 +2,7 @@ import React from 'react';
 import ChitChat from './components/ChitChat';
 import HoverButton from './components/HoverButton';
 import DivideStyle from './components/DivideStyle';
+import FlexBasis from './components/FlexBasis';
 
 const App = () => {
   return (
@@ -9,6 +10,7 @@ const App = () => {
     <ChitChat/>
     <HoverButton/>
     <DivideStyle/>
+    <FlexBasis/>
     </div>
     
   );
