@@ -9,8 +9,6 @@ const HoverButton = () => {
         <button class="bg-violet-500 rounded-full px-3 py-3 hover:bg-violet-600 focus:outline-none active:bg-violet-700 focus:ring focus:ring-violet-300">
             Save Ring Changes
         </button>
-
-      
     </div>
   );
 }
