@@ -5,6 +5,7 @@ import DivideStyle from './components/DivideStyle';
 import FlexBasis from './components/FlexBasis';
 import Order from './components/Order';
 import Grid from './components/Grid';
+import ColumnSpan from './components/ColumnSpan';
 
 const App = () => {
   return (
@@ -15,6 +16,7 @@ const App = () => {
     <FlexBasis/>
     <Order/>
     <Grid/>
+    <ColumnSpan/>
     </div>
     
   );
