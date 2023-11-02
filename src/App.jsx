@@ -3,6 +3,7 @@ import ChitChat from './components/ChitChat';
 import HoverButton from './components/HoverButton';
 import DivideStyle from './components/DivideStyle';
 import FlexBasis from './components/FlexBasis';
+import Order from './components/Order';
 
 const App = () => {
   return (
@@ -11,6 +12,7 @@ const App = () => {
     <HoverButton/>
     <DivideStyle/>
     <FlexBasis/>
+    <Order/>
     </div>
     
   );
