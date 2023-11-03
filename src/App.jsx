@@ -8,11 +8,11 @@ import Grid from './components/Grid';
 import ColumnSpan from './components/ColumnSpan';
 import RowSpan from './components/RowSpan';
 import AspectRatio from './components/AspectRatio';
-import ColumnsAndGap from './components/Columns&Gap';
+import ColumnsAndGap from './components/ImageGallery_Columns';
 
 const App = () => {
   return (
-    <div class="space-y-10 max-w-sm mx-auto">
+    <div class="space-y-10 max-w-sm mx-auto box-border p-0 m-0">
     <ChitChat/>
     <HoverButton/>
     <DivideStyle/>
