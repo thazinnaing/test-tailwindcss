@@ -4,7 +4,7 @@ const AspectRatio = () => {
   return (
     <div>
         <h1>AspectRatio</h1>
-      <iframe class="w-full aspect-video md:aspect-square" src="https://www.youtube.com/shorts/t5jxgjCy7MY?feature=share" alt="video"></iframe>
+        <img class="w-full sm:aspect-video md:aspect-square " src="https://img.freepik.com/premium-photo/nature_838106-884.jpg?size=626&ext=jpg&ga=GA1.1.1413502914.1696636800&semt=ais" alt="video"></img>
     </div>
   );
 }

@@ -8,6 +8,7 @@ import Grid from './components/Grid';
 import ColumnSpan from './components/ColumnSpan';
 import RowSpan from './components/RowSpan';
 import AspectRatio from './components/AspectRatio';
+import ColumnsAndGap from './components/Columns&Gap';
 
 const App = () => {
   return (
@@ -21,6 +22,7 @@ const App = () => {
     <ColumnSpan/>
     <RowSpan/>
     <AspectRatio/>
+    <ColumnsAndGap/>
     </div>
     
   );
