@@ -9,6 +9,7 @@ import ColumnSpan from './components/ColumnSpan';
 import RowSpan from './components/RowSpan';
 import AspectRatio from './components/AspectRatio';
 import ColumnsAndGap from './components/ImageGallery_Columns';
+import GridJustifyItems from './components/GridJustifyItems';
 
 const App = () => {
   return (
@@ -23,6 +24,7 @@ const App = () => {
     <RowSpan/>
     <AspectRatio/>
     <ColumnsAndGap/>
+    <GridJustifyItems/>
     </div>
     
   );
